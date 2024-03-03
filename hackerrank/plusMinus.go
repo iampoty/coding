@@ -2,6 +2,10 @@ package solution
 
 import "fmt"
 
+/*
+https://www.hackerrank.com/challenges/one-month-preparation-kit-plus-minus
+*/
+
 func plusMinus(arr []int32) []string {
 	n := len(arr)
 	positive := 0.0
